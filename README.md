@@ -1,6 +1,4 @@
-# COMP4531_Deep_Learning_Final_Project
-
-# Deep Learning Traffic Safety Analysis
+# Deep Learning Intersection Safety Analysis
 This repository contains the final project for COMP 4531 - Deep Learning, utilizing TensorFlow and Jupyter to analyze traffic safety at intersections through neural networks.
 
 ## Problem Statement
